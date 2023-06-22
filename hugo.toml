@@ -1,4 +1,4 @@
 baseURL = 'https://'
 languageCode = 'en-ie'
-title = 'Ga Jun Young | Platform Engineer'
+title = 'Ga Jun Young'
 theme = 'hugo-theme-stack'
