@@ -1,0 +1,4 @@
+baseURL = 'https://'
+languageCode = 'en-ie'
+title = 'Ga Jun Young | Platform Engineer'
+theme = 'hugo-theme-stack'
